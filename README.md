@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RRT* e Informed RRT*](https://medium.com/blog-robotech/rrt-e-informed-rrt-e9f90b5c3457?source=rss-fdbf6519739e------2)
+- [RRT, un algoritmo de exploración basado en árboles](https://medium.com/blog-robotech/rrt-un-algoritmo-de-exploraci%C3%B3n-basado-en-%C3%A1rboles-cf50e40c9a50?source=rss-fdbf6519739e------2)
+- [Un vistazo al código QR](https://medium.com/blog-robotech/un-vistazo-al-c%C3%B3digo-qr-ba8309b9cb3f?source=rss-fdbf6519739e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
