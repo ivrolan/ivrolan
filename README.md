@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">I'm currently studying Software Robotics Engineering at Universidad Rey Juan Carlos, Spain :es:</h3>
 
 ### Experience
-* Member of Robotech URJC, student organisation aimed to develop projects in tech, AI and mainly robotics.
+* Member of [Robotech URJC](https://github.com/RoboTech-URJC), student organisation aimed to develop projects in tech, AI and mainly robotics.
 * Tested and accomplished the Robotech Virtual Challenge tasks.
-* Developed the capabilities of localization and mapping of an omnidirectional robot with a LIDAR sensor and ROS at University of Angers, France :fr:, during my Erasmus mobility.
+* Developed the [capabilities of localization and mapping of an omnidirectional robot with a LIDAR sensor and ROS](https://github.com/ivrolan/my_pogo) at [Polytech of University of Angers,](http://www.polytech-angers.fr/fr/index.html) France :fr:, during my Erasmus mobility.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 - [RRT, un algoritmo de exploración basado en árboles](https://medium.com/blog-robotech/rrt-un-algoritmo-de-exploraci%C3%B3n-basado-en-%C3%A1rboles-cf50e40c9a50?source=rss-fdbf6519739e------2)
 - [Un vistazo al código QR](https://medium.com/blog-robotech/un-vistazo-al-c%C3%B3digo-qr-ba8309b9cb3f?source=rss-fdbf6519739e------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Interests and hobbies
+- AI advances
+- Science in general
+- Meeting new people
+- Videogames 🎮
+- Learning to play the guitar 🎸
+- Learning to skate 🛹
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
