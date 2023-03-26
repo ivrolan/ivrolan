@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/ivrolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivrolan" height="30" width="40" /></a>
 <a href="https://twitter.com/ivrolan" target="blank"><img src="https://img.shields.io/twitter/follow/ivrolan?logo=twitter&style=for-the-badge" alt="ivrolan" /></a> 
-<a href="https://linkedin.com/in/iván-lópez-broceño-9bb039203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván-lópez-broceño-9bb039203" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivrolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivrolan" height="30" width="40" /></a>
 <a href="https://medium.com/@ivrolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ivrolan" height="30" width="40" /></a>
 </p>
 
