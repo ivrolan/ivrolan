@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Iván López Broceño</h1>
-<h3 align="center">I'm currently studying Software Robotics Engineering at Universidad Rey Juan Carlos, Spain :es:</h3>
+<h3 align="center">Graduate Software Robotics Engineer at Universidad Rey Juan Carlos, Spain :es:</h3>
 
 ### Experience
 * Member of [Robotech URJC](https://github.com/RoboTech-URJC), student organisation aimed to develop projects in tech, AI and mainly robotics.
 * Tested and accomplished the Robotech Virtual Challenge tasks.
 * Developed the [capabilities of localization and mapping of an omnidirectional robot with a LIDAR sensor and ROS](https://github.com/ivrolan/my_pogo) at [Polytech of University of Angers,](http://www.polytech-angers.fr/fr/index.html) France :fr:, during my Erasmus mobility.
+* **Software Robotics Engineer** at [Tractonomy Robotics](https://www.tractonomy.com/):
+  *  Implemented a State Lattice plugin for [Nav2](https://github.com/ros-planning/navigation2) following the system dynamical contraints of their omnidirectional robot towing a cart.
+  *  New parking algorithm for the towing robot using an optimal control problem solver.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
